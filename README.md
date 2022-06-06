@@ -20,6 +20,8 @@ Characteristics of a viewer include:
 * Daily time spent on site - Average daily time spent(Minutes) on the blog site by the viewer. 
 * Clicked.on.ad - 0 if viewer didnt click on ad and 1 if viewer clicked on the ad
 * Ad.Topic.Line - the topic of the ad while the viewer was viewing the blog page.
+
+
 part1 
 [Link text Here](https://rpubs.com/Magguire/910156)
 
@@ -34,4 +36,8 @@ In this project, we shall determine different types of customer groups based on 
 * The "Special Day" feature indicates the closeness of the site visiting time to a specific special day (e.g. Mother’s Day, Valentine's Day) in which the sessions are more likely to be finalized with the transaction. The value of this attribute is determined by considering the dynamics of e-commerce such as the duration between the order date and delivery date. For example, for Valentine's day, this value takes a non-zero value between February 2 and February 12, zero before and after this date unless it is close to another special day, and its maximum value of 1 on February 8.
 
 * The dataset also includes the operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.
+
+
+part1 
+[Link text Here](https://rpubs.com/Magguire/911101)
 
