@@ -38,6 +38,6 @@ In this project, we shall determine different types of customer groups based on 
 * The dataset also includes the operating system, browser, region, traffic type, visitor type as returning or new visitor, a Boolean value indicating whether the date of the visit is weekend, and month of the year.
 
 
-part1 
-[Link text Here](https://rpubs.com/Magguire/911101)
+part2 
+[Link text Here](https://rpubs.com/Magguire/911252)
 
